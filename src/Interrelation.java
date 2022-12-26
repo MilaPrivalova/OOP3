@@ -1,4 +1,4 @@
-public enum Relationship {
+public enum Interrelation {
     отец,
     мать,
     сын,
